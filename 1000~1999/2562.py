@@ -7,4 +7,4 @@ for i in range(0,9):
         max=arr[i]
         map=i
 print(max)
-print(map)
+print(map+1)
