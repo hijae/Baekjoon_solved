@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/2292
+#벌집
+
 m=1
 n=int(input())
 if n==1:

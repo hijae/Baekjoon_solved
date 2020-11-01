@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/2446
+#별 찍기 - 9
+
 n=int(input())
 for i in range(0,n):
     for j in range(0,i):

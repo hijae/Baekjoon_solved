@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1475
+#방 번호
+
 n=input()
 arr=[0,0,0,0,0,0,0,0,0,0]
 for i in n:

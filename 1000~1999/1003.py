@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1003
+#피보나치 함수
+
 zero = [1, 0, 1]
 one = [0, 1, 1]
 

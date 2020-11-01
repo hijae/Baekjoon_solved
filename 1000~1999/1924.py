@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1924
+#2007년
+
 arr=[31,28,31,30,31,30,31,31,30,31,30,31]
 n=0
 x,y = input().split()

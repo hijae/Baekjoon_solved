@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/2747
+#피보나치 수
+
 i=int(input())
 
 arr=[0]*(i+2)

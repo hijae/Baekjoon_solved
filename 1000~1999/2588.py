@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/2588
+#곱셈
+
 i=int(input())
 j=int(input())
 n=j%10*i

@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1476
+#날짜 계산
+
 n=1
 a,b,c=map(int, input().split())
 while True:

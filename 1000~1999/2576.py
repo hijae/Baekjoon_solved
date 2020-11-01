@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/2576
+#홀수
+
 sum=0
 min=9999
 for i in range(0,7):

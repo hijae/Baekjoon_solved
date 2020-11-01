@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1157
+#단어 공부
+
 s=sorted(input().upper())
 alp= {}
 for i in set(s):

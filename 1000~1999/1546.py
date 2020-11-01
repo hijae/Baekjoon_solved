@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1546
+#평균
+
 n=int(input())
 arr=list(map(int,input().split()))
 maxar=max(arr)
