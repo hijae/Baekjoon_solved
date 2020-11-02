@@ -11,4 +11,4 @@ for x in range(t):
     for y in range(k):
         for z in range(1,n+1):
             arr[z]=arr[z-1]+arr[z]
-        print(arr[z])
+    print(arr[z])
