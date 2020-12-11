@@ -12,7 +12,7 @@ while(b!=0):
 i=1
 while i*i<=a:
     if a%i==0:
-        #print(i,r//i,g//i)
+        print(i,r//i,g//i)
         if a//i!=i:
             print(a//i,r//(a//i),g//(a//i))
     i+=1
