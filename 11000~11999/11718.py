@@ -2,4 +2,7 @@
 #그대로 출력하기
 
 for i in range(100):
-    print(input())
+    try:
+        print(input())
+    except:
+        break
